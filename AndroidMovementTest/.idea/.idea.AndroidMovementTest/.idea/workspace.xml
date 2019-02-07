@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bad9127c-2091-4fe2-8ab0-bd13829d281b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MovementSelectionCanvas.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementSelectionCanvas.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding>
+                <marker date="1532985196417" expanded="true" signature="73:3407" ph="{...}" />
+                <marker date="1532985196417" expanded="true" signature="548:609" ph="/// Callig before start. ... " />
+                <marker date="1532985196417" expanded="true" signature="634:1220" ph="{...}" />
+                <marker date="1532985196417" expanded="true" signature="891:1214" ph="{...}" />
+                <marker date="1532985196417" expanded="true" signature="1226:1287" ph="/// Calling by clicking. ... " />
+                <marker date="1532985196417" expanded="true" signature="1328:1737" ph="{...}" />
+                <marker date="1532985196417" expanded="true" signature="1747:1808" ph="/// Calling by clicking. ... " />
+                <marker date="1532985196417" expanded="true" signature="1849:2256" ph="{...}" />
+                <marker date="1532985196417" expanded="true" signature="2266:2327" ph="/// Calling by clicking. ... " />
+                <marker date="1532985196417" expanded="true" signature="2370:2772" ph="{...}" />
+                <marker date="1532985196417" expanded="true" signature="2782:2864" ph="/// Buttons go forward or backward animation. ... " />
+                <marker date="1532985196417" expanded="true" signature="2978:3322" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActionJumpLogic.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionJumpLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+              <folding>
+                <marker date="1533146969665" expanded="true" signature="65:1953" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="301:363" ph="/// Calling before start. ... " />
+                <marker date="1533146969665" expanded="true" signature="388:501" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="511:569" ph="/// Calling by start. ... " />
+                <marker date="1533146969665" expanded="true" signature="594:731" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="737:796" ph="/// Calling per frame. ... " />
+                <marker date="1533146969665" expanded="true" signature="822:1555" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="921:1081" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="1160:1453" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="1208:1390" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="1565:1634" ph="/// Calling by stayed collision. ... " />
+                <marker date="1533146969665" expanded="true" signature="1671:1711" ph="{...}" />
+                <marker date="1533146969665" expanded="true" signature="1717:1786" ph="/// Calling by exited collision. ... " />
+                <marker date="1533146969665" expanded="true" signature="1823:1864" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementSelectionCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionJumpLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionButtons.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/Jump.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/VirtualStickMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/JumpMobileButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/ActionMobileButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/JumpLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/ActionButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/Swipe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/SwipeEvaluation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/MovementButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/ActionJumpLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementSelectionCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Action/ActionJumpLogic.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="-13" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AndroidMovementTest" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AndroidMovementTest" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AndroidMovementTest" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32928804" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27912623" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" weight="0.32946634" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907193" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementSelectionCanvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <marker date="1532985196417" expanded="true" signature="73:3407" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="548:609" ph="/// Callig before start. ... " />
+            <marker date="1532985196417" expanded="true" signature="634:1220" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="891:1214" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="1226:1287" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="1328:1737" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="1747:1808" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="1849:2256" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="2266:2327" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="2370:2772" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="2782:2864" ph="/// Buttons go forward or backward animation. ... " />
+            <marker date="1532985196417" expanded="true" signature="2978:3322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementSelectionCanvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <marker date="1532985196417" expanded="true" signature="73:3407" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="548:609" ph="/// Callig before start. ... " />
+            <marker date="1532985196417" expanded="true" signature="634:1220" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="891:1214" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="1226:1287" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="1328:1737" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="1747:1808" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="1849:2256" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="2266:2327" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="2370:2772" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="2782:2864" ph="/// Buttons go forward or backward animation. ... " />
+            <marker date="1532985196417" expanded="true" signature="2978:3322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionJumpLogic.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementButtons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="74" lean-forward="true" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionButtons.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionJumpLogic.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionJumpLogic.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionButtons.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="108" selection-start-line="61" selection-start-column="108" selection-end-line="61" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionJumpLogic.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="108" lean-forward="true" selection-start-line="61" selection-start-column="108" selection-end-line="61" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionJumpLogic.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ControlPadMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionButtons.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementButtons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ActionJumpLogic.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionButtons.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/MovementLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement/SwipeMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementSelectionCanvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <marker date="1532985196417" expanded="true" signature="73:3407" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="548:609" ph="/// Callig before start. ... " />
+            <marker date="1532985196417" expanded="true" signature="634:1220" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="891:1214" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="1226:1287" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="1328:1737" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="1747:1808" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="1849:2256" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="2266:2327" ph="/// Calling by clicking. ... " />
+            <marker date="1532985196417" expanded="true" signature="2370:2772" ph="{...}" />
+            <marker date="1532985196417" expanded="true" signature="2782:2864" ph="/// Buttons go forward or backward animation. ... " />
+            <marker date="1532985196417" expanded="true" signature="2978:3322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Action/ActionJumpLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <marker date="1533146969665" expanded="true" signature="65:1953" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="301:363" ph="/// Calling before start. ... " />
+            <marker date="1533146969665" expanded="true" signature="388:501" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="511:569" ph="/// Calling by start. ... " />
+            <marker date="1533146969665" expanded="true" signature="594:731" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="737:796" ph="/// Calling per frame. ... " />
+            <marker date="1533146969665" expanded="true" signature="822:1555" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="921:1081" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="1160:1453" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="1208:1390" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="1565:1634" ph="/// Calling by stayed collision. ... " />
+            <marker date="1533146969665" expanded="true" signature="1671:1711" ph="{...}" />
+            <marker date="1533146969665" expanded="true" signature="1717:1786" ph="/// Calling by exited collision. ... " />
+            <marker date="1533146969665" expanded="true" signature="1823:1864" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

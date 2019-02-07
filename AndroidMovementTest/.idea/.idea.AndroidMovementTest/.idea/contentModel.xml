@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\f.isfarca\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_AndroidMovementTest.498776012.00" t="ExcludeRecursive" />
+    <e p="C:\Users\f.isfarca\Desktop\AndroidMovementTest" t="IncludeRecursive">
+      <e p="AndroidMovementTest.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Action" t="Include">
+            <e p="ActionButtons.cs" t="Include" />
+            <e p="ActionJumpLogic.cs" t="Include" />
+          </e>
+          <e p="Movement" t="Include">
+            <e p="MovementButtons.cs" t="Include" />
+            <e p="MovementLogic.cs" t="Include" />
+            <e p="SwipeMovement.cs" t="Include" />
+          </e>
+          <e p="MovementSelectionCanvas.cs" t="Include" />
+        </e>
+        <e p="Virtual Joystick Pack" t="Include">
+          <e p="Examples" t="Include">
+            <e p="2D Example" t="Include">
+              <e p="Player2DExample.cs" t="Include" />
+            </e>
+            <e p="3D Example" t="Include">
+              <e p="Player3DExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Base" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Joysticks" t="Include">
+              <e p="FixedJoystick.cs" t="Include" />
+              <e p="FloatingJoystick.cs" t="Include" />
+              <e p="VariableJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
